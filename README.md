@@ -9,7 +9,7 @@ Certifié **CCNA Cisco** | Fortinet NSE | Active Directory
 
 ## 🏗️ Infrastructure des labs
 
--**Cisco Packet Tracer**
+- **Cisco Packet Tracer**
 - **Hyperviseur** : VirtualBox / GNS3
 - **Équipements simulés** : Routeurs Cisco IOS, Switches L2/L3
 - **VMs** : Windows Server 2022, Ubuntu Server, pfSense, FortiGate VM
